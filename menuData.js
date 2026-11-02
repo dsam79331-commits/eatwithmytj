@@ -1,6 +1,6 @@
 export const business = {
     name: "Eatwithmytj",
-    whatsapp: "2348143587558",
+    whatsapp: "2348168722893",
     address: "Kajola Phase 2 Area, Epe Expressway, Lagos",
     hours: "10am - 10pm"
 }
